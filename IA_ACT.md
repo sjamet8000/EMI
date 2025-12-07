@@ -72,8 +72,6 @@ L’évaluation de conformité est réalisée **par le fournisseur** lui-même o
 Pour les **systèmes à haut risque “standard”** (Annexe III), le fournisseur peut suivre une **auto-évaluation** basée sur un système de gestion des risques, sauf exceptions.
 Pour certains systèmes à impact critique, la conformité doit être validée par un **organisme certifié**, cf. [art. 43.](https://artificialintelligenceact.eu/fr/article/43/)
 
-![](assets/IA/IA_ACT/IA_ACT_High_risk.png)
-
 **2. La documentation technique doit contenir :**
 - description du système, finalité, architecture générale ;
 
@@ -91,11 +89,7 @@ Pour certains systèmes à impact critique, la conformité doit être validée p
 
 Cf. [Annexe IV](https://artificialintelligenceact.eu/fr/annex/4/)
 
-![](assets/IA/IA_ACT/IA_ACT_doc_tech_annexe_IV.png)
-
 Le code source n'est jamais exigé.
-
-![](assets/IA/IA_ACT/IA_ACT_High_risk.png)
 
 **3. Mécanisme de gestion des risques**
 Les fournisseurs doivent prévoir des moyens :
@@ -107,8 +101,6 @@ Les fournisseurs doivent prévoir des moyens :
 - ou de retirer temporairement le système du marché.
 
 Cf. [Article 9](https://artificialintelligenceact.eu/fr/article/9/)
-
-![IA_ACT_Art.9](assets/IA/IA_ACT/IA_ACT_Art_9.png)
 
 SINON
 
