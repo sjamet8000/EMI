@@ -1,3 +1,26 @@
+<!--
+author:   Your Name
+
+email:    your@mail.org
+
+version:  0.0.1
+
+language: fr
+
+narrator: US English Female
+
+comment:  Try to write a short comment about
+          your course, multiline is also okay.
+
+link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
+
+script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
+
+translation: Deutsch  translations/German.md
+
+translation: Français translations/French.md
+-->
+
 # Définition et contexte
 
 L’AI Act est la première grande **réglementation européenne** visant à encadrer l’usage et la mise sur le marché des systèmes d’IA.
@@ -42,10 +65,6 @@ Exemple : **Scraping massif d’images faciales + reconnaissance biométrique ([
 
 Exemple : des systèmes d'IA fait pour le **recrutement et le tri de CV** sont interdits par l'IA Act, cf. [Insight - Amazon scraps secret AI recruiting tool that showed bias against women](https://www.reuters.com/article/world/insight-amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK0AG/)
 
-![](assets/IA/IA_ACT/IA_ACT_clearview.png)
-
-![](IA_ACT_High_risk.png)
-
 # Les obligations des fournisseurs
 
 **1. Evaluation de conformité :**
@@ -53,7 +72,7 @@ L’évaluation de conformité est réalisée **par le fournisseur** lui-même o
 Pour les **systèmes à haut risque “standard”** (Annexe III), le fournisseur peut suivre une **auto-évaluation** basée sur un système de gestion des risques, sauf exceptions.
 Pour certains systèmes à impact critique, la conformité doit être validée par un **organisme certifié**, cf. [art. 43.](https://artificialintelligenceact.eu/fr/article/43/)
 
-![](IA_ACT_art_43.png)
+![](assets/IA/IA_ACT/IA_ACT_High_risk.png)
 
 **2. La documentation technique doit contenir :**
 - description du système, finalité, architecture générale ;
@@ -76,6 +95,8 @@ Cf. [Annexe IV](https://artificialintelligenceact.eu/fr/annex/4/)
 
 Le code source n'est jamais exigé.
 
+![](assets/IA/IA_ACT/IA_ACT_High_risk.png)
+
 **3. Mécanisme de gestion des risques**
 Les fournisseurs doivent prévoir des moyens :
 
@@ -87,7 +108,7 @@ Les fournisseurs doivent prévoir des moyens :
 
 Cf. [Article 9](https://artificialintelligenceact.eu/fr/article/9/)
 
-![IA_ACT_Art.9](assets/IA/IA_ACT/IA_ACT_Art.9.png)
+![IA_ACT_Art.9](assets/IA/IA_ACT/IA_ACT_Art_9.png)
 
 SINON
 
@@ -96,5 +117,3 @@ Sanction :
 - et si un système qui a été mis sur le marché présente tout de même un risque grave, il peut être **physiquement empêché d'être utilisé en UE**
 
 Cf. [Article 99](https://artificialintelligenceact.eu/fr/article/99/)
-
-![AI_ACT_art_99.png](AI_ACT_art_99.png)
