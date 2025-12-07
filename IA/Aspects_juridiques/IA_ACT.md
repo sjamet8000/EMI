@@ -88,6 +88,3 @@ Cf. [Article 99](https://artificialintelligenceact.eu/fr/article/99/)
 
 ![Pasted image 20251129174715.png](Pasted%20image%2020251129174715.png)
 ![Pasted image 20251129175337.png](Pasted%20image%2020251129175337.png)
-
----
-Si vous avez besoin d’ajustements ou d’une version adaptée pour un usage spécifique, n’hésitez pas à me le préciser.
