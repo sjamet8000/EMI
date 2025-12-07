@@ -36,12 +36,8 @@ Exemple : **Scraping massif d’images faciales + reconnaissance biométrique ([
 Exemple : des systèmes d'IA fait pour le **recrutement et le tri de CV** sont interdits par l'IA Act, cf. [Insight - Amazon scraps secret AI recruiting tool that showed bias against women](https://www.reuters.com/article/world/insight-amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK0AG/)
 
 ![IA_ACT_clearview.png](IA_ACT_clearview.png)
-![Pasted image 20251124212903.png](Pasted%20image%2020251124212903.png)
+
 ![IA_ACT_High_risk.png](IA_ACT_High_risk.png)
-
-![Pasted image 20251129174733.png](Pasted%20image%2020251129174733.png)
-
----
 
 # Les obligations des fournisseurs
 
