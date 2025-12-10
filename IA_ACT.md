@@ -57,6 +57,8 @@ Exemple : les chatbots
 
 Les systèmes d’IA dont l’utilisation peut affecter la sécurité, la santé ou les droits fondamentaux (ex. emploi, crédit, éducation, santé, justice, police) sont autorisés mais soumis à obligations strictes (gestion des risques, gestion des données, documentation techniques, évaluation de conformité, registres, audits).
 
+![](assets/IA_ACT/IA_ACT_High_risk.png)
+
 **3. Risque inacceptable :**
 
 Pratiques d’IA qui portent atteinte aux droits fondamentaux ou à la dignité humaine et sont donc prohibées (ex. « social scoring », manipulation cognitive ciblée, identification biométrique en temps réel sur des foules) ; exceptions très limitées.
@@ -71,6 +73,8 @@ Exemple : des systèmes d'IA fait pour le **recrutement et le tri de CV** sont i
 L’évaluation de conformité est réalisée **par le fournisseur** lui-même ou par un **organisme certifié indépendant**, selon le type de système.
 Pour les **systèmes à haut risque “standard”** (Annexe III), le fournisseur peut suivre une **auto-évaluation** basée sur un système de gestion des risques, sauf exceptions.
 Pour certains systèmes à impact critique, la conformité doit être validée par un **organisme certifié**, cf. [art. 43.](https://artificialintelligenceact.eu/fr/article/43/)
+
+![](assets/IA_ACT/IA_ACT_art_43.png)
 
 **2. La documentation technique doit contenir :**
 - description du système, finalité, architecture générale ;
@@ -89,6 +93,8 @@ Pour certains systèmes à impact critique, la conformité doit être validée p
 
 Cf. [Annexe IV](https://artificialintelligenceact.eu/fr/annex/4/)
 
+![](assets/IA_ACT/IA_ACT_doc_tech_annexe_IV.png)
+
 Le code source n'est jamais exigé.
 
 **3. Mécanisme de gestion des risques**
@@ -101,6 +107,8 @@ Les fournisseurs doivent prévoir des moyens :
 - ou de retirer temporairement le système du marché.
 
 Cf. [Article 9](https://artificialintelligenceact.eu/fr/article/9/)
+
+![](assets/IA_ACT/IA_ACT_Art_9.png)
 
 SINON
 
