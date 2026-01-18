@@ -724,3 +724,112 @@ Beaucoup plus complexe, moins régulé, et beaucoup plus riche, on ne peut pas f
 - **Journaliste** **reporter d’images (JRI)** : spécifique à la télévision. Le journaliste reporter d’images est tri-qualifié, spécialisé dans la prise de vue d’images animées avec des caméras professionnelles, réactif, apte à analyser et exploiter l’information sur le terrain. Il peut travailler en binôme avec un rédacteur TV qui procède aux interviews et repérages. Le reportage TV est le résultat du travail d’une équipe complémentaire.
 
 - **Présentateur TV/radio** : présentation et écriture du journal TV ou radio ou de la séquence d’information (matinales, journal de fin de journée, etc.). Il s’agit aussi d’un travail collectif réunissant les différents acteurs de la hiérarchie (rédacteurs en chef, chefs de service, coordonnateurs, éditeurs), les journalistes sur le terrain, et impliquant une vigilance constante sur les flux d’actualité.
+
+#### Le journaliste et ses sources
+
+Une « source » est l’origine d’une information : un élu, un policier, un témoin, un avocat, un chef d’entreprise, un syndicaliste, un salarié, une institution, une association, une base de données, un rapport, un travail de recherche. Une source peut être orale ou écrite, en images ou en sons. Le journaliste mobilise des sources primaires et secondaires.
+
+- **Les sources primaires**. Le journaliste y a un accès direct sans intermédiaire : présence sur place, déclaration recueillie, document consulté, événement auquel il assiste, échange en sa présence…
+
+- **Les sources secondaires**. L’information arrive au journaliste via un ou plusieurs intermédiaires. Elles sont indispensables quand l’accès direct est impossible. Elles peuvent avoir été recueillies par d’autres journalistes – par exemple des journalistes d’agence de presse.
+
+Une source « primaire » n'est pas plus fiable qu’une source "secondaire". 
+Le témoignage d’une personne sur place lors d’un fait divers peut être altéré, 
+un élu peut avoir intérêt à taire tout ou partie de la vérité, un avocat mettra en valeur les éléments favorables à son client, etc. 
+
+Le journaliste doit donc vérifier ses informations et, selon la formule consacrée, "croiser ses sources" : **il est censé avoir au moins trois sources d’information différentes avant de considérer son information comme fiable.**
+
+##### L'anonymat des sources
+
+L'anonymat peut être demandé par des témoins peu connus peu au fait des règles du jeu médiatique, mais aussi par des interlocuteurs qui veulent se protéger pour des raisons qui peuvent ne pas toujours être légitimes : celles-ci peuvent relever de la tentative de manipulation, de la technique dite du " ballon d’essai " ("une source à l'Elysée dit que Bernard Cazeneuve pourrait être nommé premier ministre..."). 
+L’usage de l’anonymat fait débat dans les rédactions, et la plupart d’entre elles adoptent une position médiane, consistant à accepter l’anonymat si celui-ci est justifié.
+
+Donc ça va poser pas mal de problème de hiérarchisation des sources, un quidam qui demande à être anonymisé peut ne pas voir sa demande respectée, au contraire d'un politique bien au fait du jeu médiatique.
+Concernant le "journalisme d'investigation", on va parler du " off ", chez nous, c'est un peu flou, mais aux USA c'est très codifié :
+
+- " Not for attribution " : on peut citer, sans nommer la personne qui a formulé le commentaire ou la déclaration ;
+
+- " On background " : le commentaire peut être repris, sans citation ni possibilité d’identification de son auteur ;
+
+- " Off the record " : l’information ne peut pas être utilisée dans un article et celui qui l’a communiquée ne peut pas être cité.
+
+##### La protection des sources
+
+la protection des sources est consacrée depuis la loi du 29 juillet 1881.
+
+![EMI_fab_inf_Secret_sources]()
+
+La loi du [30 juillet 2018 relative au secret des affaires](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037262111) prévoit également des dispositions qui peuvent fragiliser la préservation du secret des sources des journalistes, notamment l'art. L.151-4
+
+![EMI_fab_inf_Secret_des_sources]()
+
+## Les modèles économiques
+
+### Un modèle économique typique
+
+Un modèle économique typique de la presse écrite payante pourrait s'apparenter à celui du Monde.
+
+À ceci près que le modèle économique du Monde semble plutôt bien tenir la route tandis que d'autres titres sont plus dépendants des subventions.
+
+![Le_Monde_modele_eco.png]()
+
+Les modèles économiques classiques distinguent jusqu'à 5 sources de revenus :
+
+- La vente au numéro
+    
+- L'abonnement numérique/papier
+    
+- La publicité
+    
+- Les subventions publiques/privées
+    
+- La diversification
+    
+Dans un contexte d'effondrement du coût de l'espace publicitaire dans les journaux, dû au fait qu'un nouvel espace quasi-infini et donc quasi gratuit s'est ouvert dans le courant des années 90, des grandes marques comme _Le Monde_ ont commencé à se diversifier et à faire, par exemple, de l'événementiel, des partenariats avec des marques, etc.
+
+### D'autres modèles économiques
+
+_Le Monde_ a un modèle économique assez complet, tous les titres ne sont pas diversifiés à ce point. Certains titres, comme _Médiapart_, font 95% de leurs revenus avec les abonnements, et les 5% restants sont de l'ordre de la diversification, tandis que la presse gratuite est intégralement financée par la publicité, les partenariats, et d'autres types de diversification.
+
+![Modèle_éco_Médiapart]()
+
+![Modèle_éco_BRUT]()
+
+Concernant l'audiovisuel, les sources de revenus sont majoritairement publicitaires et, le cas échéant, des parts dédiées de la contribution à l'audiovisuel public (ponctionnée désormais sur une part de la TVA).
+
+### Les subventions publiques
+
+Parlons-en, puisque c'est un sujet assez récurrent, généralement de critique de médias à l'égard d'autres médias. On a vu que pour Le Monde, c'est moins de 2% du CA en 2021.
+
+Globalement, les aides à la presse représentent un peu plus de 200 millions d'euros en 2023 pour un peu plus de 800 titres aidés, et ça va de Paris-Match à zinfos974.com (en très très forte hausse par rapport aux années précédentes).
+
+Les aides de l'État ne sont pas un cadeau, pas faites pour faire plaisir ou récompenser des titres méritants. Elles sont là pour éviter, un peu :
+
+- la concentration des médias entre les mains de quelques-uns, 
+	
+- la disparition de titres aux diffusions annuelles plus confidentielles mais essentielles à la vie d'une communauté (pro, culturelle, linguistique...) et 
+	
+- garantir, là encore autant que faire se peut, que l'information puisse parvenir à toutes et tous sur le territoire.
+
+![Aide_presse_2023.png|600]()
+
+- 14% aides à la filières
+	
+- 15% Aides exceptionnelle papier
+	
+- 71% Aides directes
+
+#### Les aides directes
+
+Les aides directes représentent près des 3/4 des aides avec une très grande part pour les aides directes au portage (donc des aides pour permettre aux titres aidés de vendre dans des points de ventes) et au postage (donc des aides pour permettre aux titres de poster directement à leurs abonnés).
+
+Il faut aussi noter les aides au pluralisme dont le but est de maintenir des titres plus "niches", au lectorat plus spécifique.
+
+- Le **FSEIP** correspond au Fonds de soutien à l'émergence et à l'innovation dans la presse (création de services en ligne, appels à projets divers).
+    
+- Le **FSDP** correspond au Fonds stratégique pour le développement de la presse (toujours pour flécher des budgets innovation).
+    
+
+Dans les deux cas, les titres doivent être reconnus par la [Commission Paritaire des Publications et Agences de presse (CPPAP)](https://www.cppap.fr/presentation-de-la-cppap/), une instance chargée de reconnaître ou non le statut d'agence de presse à des éditeurs de contenus (qui donne lieu à des allègements de taxes et des tarifs postaux). C'est une sorte de CCIJP pour les entreprises de presse.
+
+On a donc des aides directes (de l'argent versé à des titres) et des aides indirectes qui sont des dispositifs fiscaux spécifiques comme bénéficier du taux "super-réduit" à 2.1% de la TVA, ce qui permet de maintenir des coûts relativement bas, et d'autres dispositifs en faveur des vendeurs et porteurs.
