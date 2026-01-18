@@ -494,9 +494,14 @@ Pour rappel, le pigiste est celui qui est rémunéré à l'article, à la photo,
 
 Le mot important est " présumé ", c'est à l'employeur de démontrer que la prestation qu'il a payée n'est pas un travail de journaliste.
 
-##### La loi du 29 juillet 1982
+##### La loi Fillioud du 29 juillet 1982
 
-Le dernier pilier juridique : c'est tout simplement la reconnaissance du statut de journaliste aux personnes qui travaillent dans "une ou plusieurs entreprise de communication au public par voie électronique".
+Le dernier pilier juridique : c'est tout simplement l'application des principes de la loi de 1881 à l'audiovisuel^[Alexis Levrier, *Jupiter et Mercure*, p.190.].
+Avant 1982, tout un pan de la production médiatique n'est en effet pas protégé par la loi de 1881 : la radio et la télévision. Ces deux supports médiatiques prennent de plus en plus d'importance à partir de l'après-guerre et sont considérés comme les précarrés du pouvoir présidentiel de la V^e République.
+
+jusqu'en 1982, les journaliste officiant à la radio ou à la télévision ne sont donc pas tout à fait des journalistes comme les autres.
+
+La loi de 1982 c'est aussi la création du CSA (ancien Arcom), l'autorisation des radio libres, le développement des chaînes de télévision privée, la possibilité de privatiser des chaînes publiques.
 
 #### La déontologie du journalisme
 
@@ -544,8 +549,7 @@ Elle est formulée différemment et à quelques égards, un peu plus clairement.
 
 Elle pose 10 devoirs et 5 droits.
 
-Les dix devoirs :
----
+**Les dix devoirs :**
 
 1. Respecter la vérité, quelles qu’en puissent être les conséquences pour lui-même, et ce, en raison du droit que le public a de connaître la vérité.
 
@@ -567,8 +571,7 @@ Les dix devoirs :
 
 10. Refuser toute pression et n’accepter de directives rédactionnelles que des responsables de la rédaction.
 
-Les 5 droits
----
+***Les 5 droits***
 
 1. Les journalistes revendiquent le libre accès à toutes les sources d’information et le droit d'enquêter librement sur tous les faits qui conditionnent la vie publique. Le secret des affaires publiques ou privées ne peut en ce cas être opposé au journaliste que par exception en vertu de motifs clairement exprimés.
 
@@ -585,3 +588,139 @@ Les 5 droits
 Exemple d'une charte locale : la [Charte de l'AFP](https://www.afp.com/sites/default/files/paragraphrich/201704/22_juin_2016_charte_deontologique.pdf)
 
 Exemple d'une charte mondiale : [La Charte d’éthique mondiale des journalistes de la Fédération internationale des journalistes, adoptée en 2019 à Tunis](https://cdjm.org/les-chartes/)
+
+##### Quelques exemples de traduction concrète de l'application de ces chartes dans le métier
+
+**Les comités d'éthiques internes**
+
+Certaines rédactions, comme celle du Monde on mis sur pied un [comité d'éthique](https://www.lemonde.fr/actualite-medias/article/2010/11/03/la-charte-d-ethique-et-de-deontologie-du-groupe-le-monde_1434737_3236.html) dont le rôle est de 
+
+- faire respecter la charte d'éthique et de déontologie interne 
+
+- émettre des avis consultatif en cas de litige sur l'interprétation de la charte en vigueur (un exemple [ici](https://www.lemonde.fr/le-monde-et-vous/article/2024/11/27/avis-du-29-janvier-2024_6403101_6065880.html))
+
+- produire des rapports annuels publics
+
+##### Journalisme et communication
+
+On peut noter, dans toutes les chartes consultées ici, l'importance, pour les journalistes de la **distinction entre journalisme et communication**, et pour cause, il y a non seulement un risque pour le journaliste de se transformer en communicant voire en propagandiste, mais le **mélange des genre est bien réel** et, pour le moment, inévitable : les journalistes ont parfois besoin de vendre leurs savoir-faire à des clients.
+
+Pourtant, journalisme et communication, si elles partagent des aspects techniques, relèvent de **deux éthiques différentes** : le journaliste est au service d'un **bien public** (l'information du citoyen), le communicant est au service d'un **intérêt particulier** (l'image d'une marque ou d'une institution).
+
+C'est ce qu'on appelle les " **ménages** " (le fait de travailler pour une entreprise privée en marge de son travail de journaliste), un phénomène qui est dénoncé par Acrimed (Association de Critique des Médias) et qui signifie, pour Acrimed que les institutions publiques font de la communication et pas du journalisme.
+
+Si vous cherchez des exemples de ces ménages, [Acrimed les suit](https://www.acrimed.org/+-Menages-+). Ce sont des cas de journalistes connus, qui travaillent et n'ont donc pas forcément besoin de monnayer d'avantage leur talents.
+
+(ici, François Lenglet avec cette affiche dégueulasse et le journaliste présenté comme économiste)
+
+##### Les pressions
+
+Mais il n'est pas non plus pertinent de taper sur les journalistes, ou sur quelques un..es, il y a aussi un système de pression, fortes et insidieuses. L'info n'est plus rare, c'est tout le contraire. Le travail de journaliste consistera bien plus dans le tri d'un trop plein d'informations, que dans la recherche pure et dure.
+
+Les acteurs économiques vont même parfois jusqu'à ficher les journalistes, par exemple, [Monsanto qui est condamné par la CNIL](https://www.lemonde.fr/planete/article/2019/05/09/fichier-monsanto-des-dizaines-de-personnalites-classees-illegalement-selon-leur-position-sur-le-glyphosate_5460190_3244.html) pour avoir fiché des personnalités dont des journalistes. 
+
+Les acteurs économiques vont même parfois jusqu'à ficher les journalistes, par exemple, **Monsanto** qui est condamné par la [CNIL](https://www.lemonde.fr/planete/article/2019/05/09/fichier-monsanto-des-dizaines-de-personnalites-classees-illegalement-selon-leur-position-sur-le-glyphosate_5460190_3244.html) pour avoir fiché des personnalités dont des journalistes.
+
+Ces affaires ont pris des proportions dantesques avec les révélations de Lighthouse Reports avec la collaboration de nombreux grands titres tels que _Le Monde_ ou _The Guardian_, qui montrent une implication de Monsanto mais aussi Bayer ou BASF, d'une plateforme de communication nommée Bonus Eventus gérée par l'ancien directeur de la com de Monsanto et même des fonctionnaires états-uniens.
+
+### Les fondamentaux de la pratique du journalisme
+
+#### Les médias et supports
+
+1. **Les agences de presse**
+
+Elles produisent et diffusent des informations auprès des médias qui y sont abonnés, c'est l'une des sources pour le journaliste (reprise de dépêches). Nous avons en France une grande agence de presse internationale et généraliste, l'Agence France Presse
+
+![Logo_AFP]()
+L'AFP est héritière de l'Agence Havas, elle est fondée en 1944, et compte environ 1700 journalistes basés sur 150 pays.
+
+C'est l'une des agences les plus importante au monde avec Reuters (britannique)
+![Logo_Reuters.png]()
+Et Associated Press (USA)
+![Logo_Associated_press.png]()
+
+2. **La presse écrite**
+
+Historiquement "LA presse", on peut la scinder en deux blocs : les **quotidiens** (47% de la diffusion) et les **magazines**, 42% (presse pro, presse quotidienne du 7e jour et presse hebdo régionale et presse gratuite étant marginale).
+
+Concernant la presse quotidienne, on retient la **Presse Quotidienne Nationale (PQN)** :
+- le *Monde*, *Libé*, *le Figaro*, *La Croix*, *L'humanité*
+![Logo_Le_Monde]()
+![Logo_Liberation]()
+![Logo_Le_Figaro]()
+![Logo_La_croix]()
+![Logo_lhumanite]()
+
+Et la **Presse Quotidienne Régionale (PQR)** organisée en gros groupes qui se partagent la couverture du pays. Les titres les plus importants
+![Logo_Ouest_France]()
+![Logo_Sud_Ouest]()
+
+La presse magazine est très dynamique et particulièrement riche en France avec plusieurs milliers de titres, en première position, 
+
+*Télé 7 jours* 920 000 exemplaire, ou *Paris Match*. 
+
+Les **News Magazine** (*Le Point*, *Marianne*, etc.) arrivent loin derrière, mais la création récente de quelques titres comme le *JDNews* ou *Franc-Tireur* doit nous inciter à ne pas prendre son influence à la légère.
+
+3. **La radio**
+
+Le partage se fait entre le secteur public et le secteur privé.
+
+Côté public, c'est toutes les chaînes de Radio France
+![Chaines_Radio_France.png|350]()
+
+Côté privé, c'est environ 900 radios répartie par le régulateur de la manière suivante :
+
+- La radios associatives pour la moitié des opérateurs
+
+- Les radios commerciales indépendantes, qui ne sont affiliées à aucun réseau national
+
+- Les radios commerciales locales ou régionales affiliées à un réseau national (NRJ, Fun Radio, Virgin radio…)
+
+- Les radios commerciales nationales (Radio Classique, BFM Business,…)
+
+- Les radios commerciales généralistes à vocation nationale, le plus souvent les héritières des anciennes généralistes privées diffusées en France avant 1981 (Europe 1, RTL, RMC, Sud Radio, etc.)
+
+Les médias de l'audiovisuel sont régulés par l'**ARCOM** (**Autorité de régulation de la communication audiovisuelle et numérique**). C'est essentiel parce qu'il s'agit d'un même enjeu, l'attribution des fréquences (on l'a vu avec C8 et NRJ12 qui ont cessé d'émettre).
+
+4. **La télévision**
+
+La **télévision**, un peu comme pour la radio, on a une bipartition, peut-être moins marquée, entre les chaînes publiques et les chaines privées, mais c'est aussi parce qu'il s'agit d'un même enjeu, l'attribution des fréquences (on l'a vu avec C8 et NRJ12 qui ont cessé d'émettre).
+A part les chaines du Groupe France Télévision, ce sont les gros groupes privés qui structurent le paysage télévisuel, avec Bouygues (TF1, LCI, TMC), le groupe Canal+ (Cnews), le Groupe M6...
+
+5. **Internet et les pure players**
+
+Beaucoup plus complexe, moins régulé, et beaucoup plus riche, on ne peut pas faire une liste exhaustive des types de médias sur internet. Néanmoins, en très gros on a :
+
+- Les **sites de médias** (écrits, radio ou télé) et leurs déclinaisons, qui peuvent être nombreuses, sous forme d’applis et/ou de formats spécifiques au web. Ils entrent dans la catégorie des médias d’information, avec des niveaux variés d’appropriation des codes du web et d’intégration de la part d’interactivité que permet le web 2.0.
+    
+- Les **pure players** qui sont exclusivement sur internet (_Médiapart_, *Les Jours*...)
+    
+- Les **éditeurs de contenus** : au contours beaucoup plus flous entre information et communication, on peut citer Orange, Webedia, France-Soir, mais ils ne disposent par du statut de **site d'information générale et politique**
+
+#### Les métiers du journalisme
+
+- **Rédacteur en chef** : le rédacteur en chef est responsable, sous l’autorité de la direction de la rédaction, de la réalisation, conception, déroulé du journal, qu’il s’agisse d’un journal papier, radio, télévisé ou en ligne. Eventuellement assisté d’un ou plusieurs adjoints, il a autorité sur l’ensemble des services de la rédaction et de ceux qui la composent.
+
+- **Chef de service/de rubrique** : placé sous l’autorité du rédacteur en chef (ou de ses adjoints), il anime, coordonne et impulse l’équipe de journalistes spécialisés placés sous sa responsabilité. Il représente le service aux réunions de prévision, avec les propositions de sujet en fonction de l’agenda ou des initiatives proposées par les membres de son équipe.
+
+- **Journaliste spécialisé ou rubricard** : assure la recherche (au siège du journal ou sur le terrain) des informations relatives à son domaine de spécialité (politique, économique, santé, éducation, justice, culture,…)
+
+- **Reporter/grand reporter** : affecté au terrain – enquêtes, compte rendus d’événements, reportages définis en conférence de rédaction. Le grand reporter est généralement un journaliste expérimenté, souvent rattaché directement à la rédaction en chef, et qui peut opérer, le cas échéant, en France ou à l’étranger.
+
+- **Rédacteur** : réputé « sédentaire », participe, au siège du journal, de l’agence, du site web ou plus généralement du média, au travail de « desk », principalement la mise en forme des informations recueillies auprès des diverses sources de la rédaction (agences de presse, contacts, travail de vérification, synthèse).
+
+- **Correspondant** (à l’étranger) : le correspondant est chargé de suivre et traiter l’actualité du pays ans lequel il est installé. Selon les médias, leur importance (et leurs moyens), le correspondant peut être salarié à temps plein par son média (le plus rare, à l’exception de l’Agence France Presse, et de quelques journaux ou chaines de télévision présents dans les grandes capitales étrangères), ou pigiste (auquel cas il travaille souvent pour plusieurs titres simultanément, par exemple l’AFR, RFI, et un quotidien national).
+
+- **Reporter photographe** : Photographe de presse, qui collecte les photos sur le terrain, les édite et les adresse à un ou plusieurs médias selon son statut ou ses commandes (par exemple photographe de presse quotidienne régionale exclusivement salarié d’un journal, ou membre d’une agence ou d’un collectif, ou totalement free lance).
+
+- **Localier** : journaliste affecté dans une locale, que ce soit dans un journal (par exemple presse quotidienne départementale ou régionale), une radio, ou une TV. Généralement au sein d’une rédaction de petite taille, il assure les fonctions de reportage de terrain et de traitement des informations relatives à la zone de diffusion où il est implanté. Certains localiers peuvent être aussi seuls en poste et dépendre d’une rédaction éloignée.
+
+- **Chef d’édition** : C’est lui qui organise la coordination entre les différentes fonctions – rédaction, édition, fabrication -, veille, en lien avec le rédacteur en chef, à la cohérence du journal en fonction de l’actualité et du projet éditorial, et contrôle du respect des horaires.
+
+**Audiovisuel :**
+
+- **Rédacteur TV/radio** : au desk ou sur le terrain, le rédacteur TV ou radio recherche et met en forme les informations avec les images et les sons qu’il a collectés, qu’il présente seul à l’antenne ou qui peuvent être intégrées à un sujet plus large. En télévision, le rédacteur travaille le plus souvent – même si ce mode de production de l’information tend à diminuer – en binôme avec un journaliste reporter d’images (JRI).
+
+- **Journaliste** **reporter d’images (JRI)** : spécifique à la télévision. Le journaliste reporter d’images est tri-qualifié, spécialisé dans la prise de vue d’images animées avec des caméras professionnelles, réactif, apte à analyser et exploiter l’information sur le terrain. Il peut travailler en binôme avec un rédacteur TV qui procède aux interviews et repérages. Le reportage TV est le résultat du travail d’une équipe complémentaire.
+
+- **Présentateur TV/radio** : présentation et écriture du journal TV ou radio ou de la séquence d’information (matinales, journal de fin de journée, etc.). Il s’agit aussi d’un travail collectif réunissant les différents acteurs de la hiérarchie (rédacteurs en chef, chefs de service, coordonnateurs, éditeurs), les journalistes sur le terrain, et impliquant une vigilance constante sur les flux d’actualité.
